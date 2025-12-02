@@ -56,9 +56,3 @@ Additionally, I contributed to project teams focused on developing **new feature
 
 ## 🎓 Education
 Bachelor’s degree in **Systems Analysis and Development**
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/jolimba

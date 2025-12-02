@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I am a Fullstack Developer with experience in **Node.js, TypeScript, PHP, Python and Java**, working mainly with **microservices-based systems**, development and consumption of **APIs**, and maintenance of **legacy systems**, especially in the legal sector.
 
@@ -52,7 +52,4 @@ During my professional experience, I worked with the development and maintenance
 
 Additionally, I contributed to project teams focused on developing **new features**, improving application stability, and refining development workflows in production environments.
 
----
 
-## 🎓 Education
-Bachelor’s degree in **Systems Analysis and Development**

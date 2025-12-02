@@ -33,13 +33,11 @@ Currently, I am also working on an **indie game project using Godot**, together 
 - Oracle SQL  
 - MongoDB  
 
-### 🔧 Architecture & Quality
+### 🔧 More
 - Microservices  
 - OpenAPI (Swagger)  
 - Automated Testing  
 - RESTful APIs  
-
-### 📊 Data & Search
 - TensorFlow  
 - Scikit-Learn  
 - Apache Solr  

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm João
+# Hi, I'm João
 
 🚀 Fullstack Developer  
 💻 Node.js | TypeScript | PHP | Python | Java  
